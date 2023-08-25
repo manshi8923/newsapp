@@ -1,0 +1,22 @@
+render methods firstly convert jsx into html after that it render the component or display the component into the screen 
+in class based component before calling a constructor first of all call a super class
+
+for target is blank whole page opens into a new tab
+componentdidMount is a lifecycle method
+after the render method run , compoundDidMount() runs
+
+
+
+Mounting means changing
+
+React Component lifecycle
+The series of events that happen from mounting of a react component to its unmounting 
+
+>> Mounting-Birth of your component
+>> Update-Growth of your component
+>> Unmount-Death of your component
+
+
+
+
+
